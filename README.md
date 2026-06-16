@@ -1,6 +1,6 @@
 # Series de Tiempo — Universidad Javeriana Cali
 ### Maestría en Ciencia de Datos
-**Estudiante:** Juan Sebastian Torres Romero
+**Autor:** Juan Sebastian Torres Romero
 
 ---
 
